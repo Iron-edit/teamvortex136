@@ -178,6 +178,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+      aspect-ratio: 16 / 9;
 
   }
 
@@ -295,13 +296,12 @@ body {
 .twitch-section {
   text-align: center;
   padding: 60px 20px;
-    aspect-ratio: 16 / 9;
 }
 
 .twitch-section h2 {
   color: rgb(255, 217, 0);
   text-shadow: 0 0 15px rgb(255, 217, 0);
-    aspect-ratio: 16 / 9;
+
 }
 
 .twitch-container {
@@ -310,7 +310,6 @@ body {
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 0 25px rgb(255, 217, 0);
-    aspect-ratio: 16 / 9;
 }
 
 
@@ -337,7 +336,7 @@ body {
 
 
 .video-container {
-    max-width: 800px;
+
   aspect-ratio: 16 / 9;
   margin: 30px auto;
   border-radius: 15px;
