@@ -32,7 +32,7 @@ const staffData = [
     {
       name: "Kiko",
       role: "CEO",
-      img: "file:///C:/Users/ndurr/Downloads/kiko.jpg",
+      img: "https://pbs.twimg.com/profile_images/1941778082592870400/gz3SH2QD_400x400.jpg",
       twitter: "https://x.com/Weykofnr",
       twitch : "https://www.twitch.tv/kiko3k_", 
      
