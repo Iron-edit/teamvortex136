@@ -333,6 +333,7 @@ body {
 
 
 .video-container {
+    max-width: 800px;
   aspect-ratio: 16 / 9;
   margin: 30px auto;
   border-radius: 15px;
