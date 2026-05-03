@@ -24,7 +24,7 @@ const playersData = [
     img: "https://static-cdn.jtvnw.net/jtv_user_pictures/80f7da2b-36a1-4683-a929-58bd2447fd0d-profile_image-70x70.png",
     twitter: "https://x.com/xsweatfn",
     twitch: "",
-  }
+  },
 
   {
     name: "Waryx",
