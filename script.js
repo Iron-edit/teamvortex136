@@ -26,6 +26,17 @@ const playersData = [
     twitch: "",
   }
 
+  {
+    name: "Waryx",
+    role: "Français",
+    img: "https://pbs.twimg.com/profile_images/2046161237382508544/nzLFCfZI_400x400.jpg",
+    twitter: "https://x.com/warixfnbr?s=21",
+    twitch: "",
+  }
+    
+
+    
+
 ];
 
 const staffData = [
